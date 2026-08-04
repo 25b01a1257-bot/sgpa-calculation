@@ -1,7 +1,6 @@
 import java.util.Scanner;
 class Grade{
 public static void main(String args[]){
-int s1,s2,s3,s4,s5,s6,s7,s8,s9;
 int i;
 double sgpa;
 double gp;
